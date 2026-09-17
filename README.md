@@ -37,3 +37,4 @@ Demo data is pre-seeded. The current starter intentionally uses a fixed demo use
 ## AI
 Set `AI_PROVIDER=mock` for an API-key-free demo. When you wire OpenAI/Gemini, keep provider calls inside `lib/ai` and the `/api/ai/*` routes.
 # py.learn
+# py.learn
